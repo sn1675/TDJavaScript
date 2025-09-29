@@ -1,0 +1,26 @@
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.convertisseurTab {
+    border-collapse: collapse;
+    /*border: 2px solid black;*/
+    margin: 1%;
+}
+
+#convertir {
+    margin: 1%;
+}
+
+#convertir:hover {
+    background: darkgrey;
+}
+
+.Exo3{
+    margin-left: 1%;
+    padding: 1%;
+    width: 30%;
+    border: 1px solid black;
+}
